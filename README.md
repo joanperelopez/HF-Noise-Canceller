@@ -6,7 +6,7 @@ All the noise cancellers I know are based on the same principle: the use of an a
 
 #### Note: This device is still in the design phase and the circuit has not yet been tested.
 
-The original design is based on an article for building a noise canceller by colleague EA1KO, with some modifications that presumably could improve its performance, such as:
+The original design is based on an article for building a noise canceller by colleague EA1KO, which in turn is very similar to a commercial one. I have applied some modifications that presumably could improve its performance, such as:
 
 1. The incorporation of signal relays instead of extending the RF cables to the switches. This ensures that the wiring is entirely DC, with no RF signals. Due to these relays, the wiring is simplified.
 
