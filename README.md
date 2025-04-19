@@ -23,3 +23,7 @@ PCB Bottom side
 
 ![Vista posterior](https://github.com/user-attachments/assets/3474e85c-5287-4a3d-beca-17526e29907a)
 
+![Vista frontal](https://github.com/user-attachments/assets/ac9e3811-044d-410b-a2b5-e8038f25b7c0)
+
+![Vista posterior](https://github.com/user-attachments/assets/37fa4209-a5c1-46c3-a892-4d118110de2e)
+
