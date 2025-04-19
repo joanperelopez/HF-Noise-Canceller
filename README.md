@@ -24,5 +24,7 @@ PCB Bottom side
 ![Vista posterior](https://github.com/user-attachments/assets/3474e85c-5287-4a3d-beca-17526e29907a)
 
 ![WhatsApp Image 2025-04-19 at 12 38 03 (1)](https://github.com/user-attachments/assets/429607b1-1403-4ede-8dad-e9d45be53317)
+Printed 3D prototype.
 
 ![WhatsApp Image 2025-04-19 at 12 38 03](https://github.com/user-attachments/assets/da657c5f-2422-41de-9493-b453be430c18)
+Printed 3D prototype.
