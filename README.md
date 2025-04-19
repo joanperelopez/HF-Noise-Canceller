@@ -56,7 +56,7 @@ To make each transformer, two wires of different colors (to easily identify thei
 The figure shows how to number the terminals to correctly install the transformers on the printed circuit board.
 
 ![WhatsApp Image 2025-04-19 at 18 45 04](https://github.com/user-attachments/assets/e37ef704-57c1-4b17-8f37-3a4fe8dd0ff3)
-_Detail of each transformer._
+_Detail of each transformer and their terminal numbers._
 
 
 
