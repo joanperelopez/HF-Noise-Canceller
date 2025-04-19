@@ -18,10 +18,13 @@ PCB Top side.
 PCB Bottom side
 
 ![Top view](https://github.com/user-attachments/assets/2d5949b0-e422-4094-8667-19631c2b7dad)
+3D model top view.
 
 ![Vista frontal](https://github.com/user-attachments/assets/c245ac68-4a6e-4d55-a854-13174ce48cfc)
+3D model front view.
 
 ![Vista posterior](https://github.com/user-attachments/assets/3474e85c-5287-4a3d-beca-17526e29907a)
+3D model rear view.
 
 ![WhatsApp Image 2025-04-19 at 12 38 03 (1)](https://github.com/user-attachments/assets/429607b1-1403-4ede-8dad-e9d45be53317)
 Printed 3D prototype.
