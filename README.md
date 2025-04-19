@@ -3,7 +3,7 @@
 This project was born out of necessity for my day-to-day activities as a ham radio operator. The QRM is becoming more intense every day, with current levels reaching S9, so I needed to find a way to reduce it.  
 This device is still in the design phase, which is why there is still little information in the repository. As I continue to develop it, I will add more details.
 
-## Note: The circuit has not yet been tested.
+### Note: The circuit has not yet been tested.
 
 The original design is based on an article for building a noise canceller by colleague EA1KO, with some modifications that presumably could improve its performance, such as:
 
