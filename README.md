@@ -29,6 +29,8 @@ _Bottom view of the 3D model._
 
 2. A 50-ohm coaxial cable needs to be placed to connect TP15 and TP13 with TP14 and TP12, respectively. I have preferred this connection to be made using an external cable rather than a copper trace to avoid possible interference (EMI).
 
+3. All cables going to connectors and switches must be connected to the corresponding TPn, according to the schematic.
+
 
 ![Captura de pantalla 2025-04-17 a las 23 23 01](https://github.com/user-attachments/assets/1a49ffe5-d395-461c-a5b6-a19b20405de1)
 
