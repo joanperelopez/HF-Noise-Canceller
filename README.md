@@ -48,7 +48,7 @@ _PCB Top side._
 
 _PCB Bottom side._
 
-### Transformers
+### RF Transformers
 All the transformers used in the design are identical. The ferrite cores employed are BN-73-302 or similar, with a permeability of around 2500.
 
 To make each transformer, two wires of different colors (to easily identify their ends) need to be twisted together. With this twisted wire, five turns must be wound around the toroid, keeping in mind that each time the wire passes through a hole in the toroid, it counts as one turn. 
