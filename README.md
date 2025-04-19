@@ -22,6 +22,8 @@ The original design is based on an article for building a noise canceller by col
 
 7. Adjustment of the delay time from when the PTT is released until the device returns to reception mode.
 
+8. A single power relay for antenna switching.
+
 
 ![Noise Canceller 2 0_t](https://github.com/user-attachments/assets/b486abe7-adf7-47c5-9f1a-07e7165e1199)
 _Top view of the 3D model._
