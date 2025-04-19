@@ -33,5 +33,5 @@ Printed 3D prototype.
 Printed 3D prototype.
 
 ![WhatsApp Image 2025-04-19 at 12 46 19](https://github.com/user-attachments/assets/e1356482-de30-4050-a8a0-3755f47c0f55)
-Potentiometer extender.
+Printed 3D potentiometer extender.
 
