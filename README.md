@@ -1,11 +1,10 @@
 # HF Noise Canceller
 
 This project was born out of necessity for my day-to-day activities as a ham radio operator. The QRM is becoming more intense every day, with current levels reaching S9, so I needed to find a way to reduce it.  
-This device is still in the design phase, which is why there is still little information in the repository. As I continue to develop it, I will add more details.
 
 All the noise cancellers I know are based on the same principle: the use of an auxiliary antenna that picks up the noise, which is then phase-inverted, amplified, and mixed with the signal-plus-noise coming from the main antenna. By properly adjusting the amplitude and phase in the noise amplifier, part of that noise can be canceled out.
 
-#### Note: The circuit has not yet been tested.
+#### Note: This device is still in the design phase and the circuit has not yet been tested.
 
 The original design is based on an article for building a noise canceller by colleague EA1KO, with some modifications that presumably could improve its performance, such as:
 
