@@ -41,6 +41,8 @@ _PCB Top side._
 _PCB Bottom side._
 
 ### Transformers
+All the transformers used in the design are identical. The ferrite cores employed are BN-73-302 or similar, with a permeability of around 2500.
+
 ![WhatsApp Image 2025-04-19 at 18 45 04](https://github.com/user-attachments/assets/e37ef704-57c1-4b17-8f37-3a4fe8dd0ff3)
 _Detail of each transformer._
 
