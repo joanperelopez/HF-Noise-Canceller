@@ -3,7 +3,7 @@
 This project was born out of necessity for my day-to-day activities as a ham radio operator. The QRM is becoming more intense every day, with current levels reaching S9, so I needed to find a way to reduce it.  
 This device is still in the design phase, which is why there is still little information in the repository. As I continue to develop it, I will add more details.
 
-### Note: The circuit has not yet been tested.
+#### Note: The circuit has not yet been tested.
 
 The original design is based on an article for building a noise canceller by colleague EA1KO, with some modifications that presumably could improve its performance, such as:
 
@@ -31,28 +31,26 @@ _Bottom view of the 3D model._
 
 
 ![Captura de pantalla 2025-04-17 a las 23 23 01](https://github.com/user-attachments/assets/1a49ffe5-d395-461c-a5b6-a19b20405de1)
-
-PCB Top side.
+_PCB Top side._
 
 ![Captura de pantalla 2025-04-17 a las 23 24 20](https://github.com/user-attachments/assets/e434a091-9910-40a2-8e50-645857a5ab62)
-
-PCB Bottom side
+_PCB Bottom side._
 
 ![Top view](https://github.com/user-attachments/assets/2d5949b0-e422-4094-8667-19631c2b7dad)
-3D model top view.
+_3D model top view._
 
 ![Vista frontal](https://github.com/user-attachments/assets/c245ac68-4a6e-4d55-a854-13174ce48cfc)
-3D model front view.
+_3D model front view._
 
 ![Vista posterior](https://github.com/user-attachments/assets/3474e85c-5287-4a3d-beca-17526e29907a)
-3D model rear view.
+_3D model rear view._
 
 ![WhatsApp Image 2025-04-19 at 12 38 03 (1)](https://github.com/user-attachments/assets/429607b1-1403-4ede-8dad-e9d45be53317)
-Printed 3D prototype.
+_Printed 3D prototype._
 
 ![WhatsApp Image 2025-04-19 at 12 38 03](https://github.com/user-attachments/assets/da657c5f-2422-41de-9493-b453be430c18)
-Printed 3D prototype.
+_Printed 3D prototype._
 
 ![WhatsApp Image 2025-04-19 at 12 46 19](https://github.com/user-attachments/assets/e1356482-de30-4050-a8a0-3755f47c0f55)
-Printed 3D potentiometer extender.
+_Printed 3D potentiometer extender._
 
