@@ -2,6 +2,10 @@
 
 This project was born out of necessity for my day-to-day activities as a ham radio operator. The QRM is becoming more intense every day, with current levels reaching S9, so I needed to find a way to reduce it.  
 This device is still in the design phase, which is why there is still little information in the repository. As I continue to develop it, I will add more details.
+The original design is based on an article for building a noise canceller by colleague EA1KO, with some modifications that presumably could improve its performance, such as:
+The incorporation of signal relays instead of extending the RF cables to the switches. This ensures that the wiring is entirely DC, with no RF signals.
+The addition of a 1.2 MHz high-pass filter at the input of the auxiliary antenna. The use of this filter can be selected or bypassed via a switch.
+PTT input from the transceiver to switch the canceller to transmit mode (in this mode, the power relay creates a bypass between the main antenna and the transceiver). The automatic switching when RF is detected is only as a safety measure.
 
 ![Noise Canceller 2 0_t](https://github.com/user-attachments/assets/b486abe7-adf7-47c5-9f1a-07e7165e1199)
 Top view of the 3D model.
