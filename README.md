@@ -20,6 +20,8 @@ The original design is based on an article for building a noise canceller by col
 
 6. A careful design of the ground connections, their points of connection to the main ground, and the power supply inputs.
 
+7. Adjustment of the delay time from when the PTT is released until the device returns to reception mode.
+
 
 ![Noise Canceller 2 0_t](https://github.com/user-attachments/assets/b486abe7-adf7-47c5-9f1a-07e7165e1199)
 _Top view of the 3D model._
