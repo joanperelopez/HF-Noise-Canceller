@@ -21,7 +21,7 @@ Top view of the 3D model.
 ![Noise Canceller 2 0_bot](https://github.com/user-attachments/assets/756db7bb-3946-4b37-99b8-ee39da5b0230)
 Bottom view of the 3D model.
 
-Additional information for assembly:  
+### Additional information for assembly:  
 
 1. Once the SMD and THT components are mounted on the PCB, the jumpers marked from JP1 to JP6 need to be short-circuited. These jumpers are a very effective method to determine where the ground connections and power supply positives are linked across the entire PCB.
 
