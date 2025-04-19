@@ -16,3 +16,10 @@ PCB Top side.
 ![Captura de pantalla 2025-04-17 a las 23 24 20](https://github.com/user-attachments/assets/e434a091-9910-40a2-8e50-645857a5ab62)
 
 PCB Bottom side
+
+![Top view](https://github.com/user-attachments/assets/2d5949b0-e422-4094-8667-19631c2b7dad)
+
+![Vista frontal](https://github.com/user-attachments/assets/c245ac68-4a6e-4d55-a854-13174ce48cfc)
+
+![Vista posterior](https://github.com/user-attachments/assets/3474e85c-5287-4a3d-beca-17526e29907a)
+
