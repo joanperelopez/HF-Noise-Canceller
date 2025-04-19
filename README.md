@@ -4,13 +4,13 @@ This project was born out of necessity for my day-to-day activities as a ham rad
 This device is still in the design phase, which is why there is still little information in the repository. As I continue to develop it, I will add more details.
 
 ![Noise Canceller 2 0_t](https://github.com/user-attachments/assets/b486abe7-adf7-47c5-9f1a-07e7165e1199)
-
+Top view of the 3D model.
 
 ![Noise Canceller 2 0_bot](https://github.com/user-attachments/assets/756db7bb-3946-4b37-99b8-ee39da5b0230)
-
+Bottom view of the 3D model.
 
 ![Captura de pantalla 2025-04-17 a las 23 23 01](https://github.com/user-attachments/assets/1a49ffe5-d395-461c-a5b6-a19b20405de1)
-
+PCB Top side.
 
 ![Captura de pantalla 2025-04-17 a las 23 24 20](https://github.com/user-attachments/assets/e434a091-9910-40a2-8e50-645857a5ab62)
-
+PCB Bottom side
