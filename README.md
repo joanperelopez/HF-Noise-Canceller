@@ -31,3 +31,7 @@ Printed 3D prototype.
 
 ![WhatsApp Image 2025-04-19 at 12 38 03](https://github.com/user-attachments/assets/da657c5f-2422-41de-9493-b453be430c18)
 Printed 3D prototype.
+
+![WhatsApp Image 2025-04-19 at 12 46 19](https://github.com/user-attachments/assets/e1356482-de30-4050-a8a0-3755f47c0f55)
+Potentiometer extender.
+
