@@ -10,7 +10,9 @@ Top view of the 3D model.
 Bottom view of the 3D model.
 
 ![Captura de pantalla 2025-04-17 a las 23 23 01](https://github.com/user-attachments/assets/1a49ffe5-d395-461c-a5b6-a19b20405de1)
+
 PCB Top side.
 
 ![Captura de pantalla 2025-04-17 a las 23 24 20](https://github.com/user-attachments/assets/e434a091-9910-40a2-8e50-645857a5ab62)
+
 PCB Bottom side
