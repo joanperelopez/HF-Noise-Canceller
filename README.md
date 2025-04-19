@@ -11,6 +11,8 @@ The original design is based on an article for building a noise canceller by col
 
 3. PTT input from the transceiver to switch the canceller to transmit mode (in this mode, the power relay creates a bypass between the main antenna and the transceiver). The automatic switching when RF is detected is only as a safety measure.
 
+4. LA1, LA2, and LA3 are 12V bulbs used to protect sensitive circuits from RF power when the equipment is in transmission mode.
+
 ![Noise Canceller 2 0_t](https://github.com/user-attachments/assets/b486abe7-adf7-47c5-9f1a-07e7165e1199)
 Top view of the 3D model.
 
