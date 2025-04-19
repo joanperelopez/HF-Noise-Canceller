@@ -18,6 +18,10 @@ The original design is based on an article for building a noise canceller by col
 
 5. The addition of shielding in the first stage of noise amplification, to prevent noise that does not come from the auxiliary antenna.
 
+6. A careful design of the ground connections, their points of connection to the main ground, and the power supply inputs.
+
+   
+
 ![Noise Canceller 2 0_t](https://github.com/user-attachments/assets/b486abe7-adf7-47c5-9f1a-07e7165e1199)
 _Top view of the 3D model._
 
