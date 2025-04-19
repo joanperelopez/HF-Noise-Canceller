@@ -7,7 +7,7 @@ This device is still in the design phase, which is why there is still little inf
 
 The original design is based on an article for building a noise canceller by colleague EA1KO, with some modifications that presumably could improve its performance, such as:
 
-1. The incorporation of signal relays instead of extending the RF cables to the switches. This ensures that the wiring is entirely DC, with no RF signals.
+1. The incorporation of signal relays instead of extending the RF cables to the switches. This ensures that the wiring is entirely DC, with no RF signals. Due to these relays, the wiring is simplified.
 
 2. The addition of a 1.2 MHz high-pass filter at the input of the auxiliary antenna. The use of this filter can be selected or bypassed via a switch.
 
