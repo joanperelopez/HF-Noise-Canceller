@@ -64,17 +64,17 @@ _Detail of each transformer and their terminal numbers._
 _3D model top view._
 
 ![Vista frontal](https://github.com/user-attachments/assets/c245ac68-4a6e-4d55-a854-13174ce48cfc)
-_3D model front view._
+_3D model front view. You must include knobs to adjust the potentiometers._
 
 ![Vista posterior](https://github.com/user-attachments/assets/3474e85c-5287-4a3d-beca-17526e29907a)
 _3D model rear view._
 
 ![WhatsApp Image 2025-04-19 at 12 38 03 (1)](https://github.com/user-attachments/assets/429607b1-1403-4ede-8dad-e9d45be53317)
-_Printed 3D prototype._ Ready to be used.
+_Printed 3D prototype. Ready to be used._ 
 
 ![WhatsApp Image 2025-04-19 at 12 38 03](https://github.com/user-attachments/assets/da657c5f-2422-41de-9493-b453be430c18)
-_Printed 3D prototype._ Ready to be used.
+_Printed 3D prototype. Ready to be used._ 
 
 ![WhatsApp Image 2025-04-19 at 12 46 19](https://github.com/user-attachments/assets/e1356482-de30-4050-a8a0-3755f47c0f55)
-_Printed 3D potentiometer extender._ Ready to be used.
+_Printed 3D potentiometer extender. Ready to be used._ 
 
