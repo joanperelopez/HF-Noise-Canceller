@@ -31,9 +31,11 @@ _Bottom view of the 3D model._
 
 
 ![Captura de pantalla 2025-04-17 a las 23 23 01](https://github.com/user-attachments/assets/1a49ffe5-d395-461c-a5b6-a19b20405de1)
+
 _PCB Top side._
 
 ![Captura de pantalla 2025-04-17 a las 23 24 20](https://github.com/user-attachments/assets/e434a091-9910-40a2-8e50-645857a5ab62)
+
 _PCB Bottom side._
 
 ![Top view](https://github.com/user-attachments/assets/2d5949b0-e422-4094-8667-19631c2b7dad)
