@@ -35,7 +35,7 @@ _Bottom view of the 3D model._
 
 1. Once the SMD and THT components are mounted on the PCB, the jumpers marked from JP1 to JP6 need to be short-circuited. These jumpers are a very effective method to determine where the ground connections and power supply positives are linked across the entire PCB.
 
-2. A 50-ohm coaxial cable needs to be placed to connect TP15 and TP13 with TP14 and TP12, respectively. I have preferred this connection to be made using an external cable rather than a copper trace to avoid possible interference (EMI).
+2. A 50-ohm coaxial cable needs to be placed to connect TP15 and TP13 with TP14 and TP12, respectively. I have preferred this connection to be made using an external cable rather than a copper trace to avoid possible interference (EMI). This cable is marked in the PCB silkscreen.
 
 3. All cables going to connectors and switches must be connected to the corresponding TPn, according to the schematic.
 
