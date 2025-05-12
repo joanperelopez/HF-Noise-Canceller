@@ -81,4 +81,5 @@ _Printed 3D potentiometer extender. Ready to be used._
 
 
 ### Errors found
-1. Q2 and Q6 has the E and the B interchanged.
+1. Q2 and Q6 hve the E and the B footprints interchanged.
+2. The diodes 1N4148 have the footprint to small.
