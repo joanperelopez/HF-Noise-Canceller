@@ -78,3 +78,7 @@ _Printed 3D prototype. Ready to be used._
 ![WhatsApp Image 2025-04-19 at 12 46 19](https://github.com/user-attachments/assets/e1356482-de30-4050-a8a0-3755f47c0f55)
 _Printed 3D potentiometer extender. Ready to be used._ 
 
+
+
+### Errors found
+1. Q2 and Q6 has the E and the B interchanged.
